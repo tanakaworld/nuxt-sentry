@@ -1,5 +1,6 @@
 # nuxt-sentry
 [![CircleCI](https://circleci.com/gh/tanakaworld/nuxt-sentry/tree/master.svg?style=svg)](https://circleci.com/gh/tanakaworld/nuxt-sentry)
+[![npm](https://img.shields.io/npm/dt/@tanakaworld/nuxt-sentry.svg?style=flat-square)](https://npmjs.com/package/@tanakaworld/nuxt-sentry)
 
 > A sentry module for Nuxt with nuxt-env
 
