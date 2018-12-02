@@ -1,0 +1,32 @@
+{
+  "name": "@tanakaworld/nuxt-sentry",
+  "version": "0.1.0",
+  "description": "A sentry module for Nuxt with nuxt-env",
+  "main": "lib/module.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tanakaworld/nuxt-sentry.git"
+  },
+  "keywords": [
+    "nuxt",
+    "sentry"
+  ],
+  "author": "tanakaworld",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tanakaworld/nuxt-sentry/issues"
+  },
+  "homepage": "https://github.com/tanakaworld/nuxt-sentry#readme",
+  "dependencies": {
+    "@sentry/browser": "^4.4.1",
+    "@sentry/node": "^4.4.1",
+    "nuxt-env": "^0.0.4"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "nuxt": "^2.3.4"
+  }
+}
