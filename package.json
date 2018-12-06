@@ -1,6 +1,6 @@
 {
   "name": "@tanakaworld/nuxt-sentry",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A sentry module for Nuxt with nuxt-env",
   "main": "lib/module.js",
   "scripts": {
