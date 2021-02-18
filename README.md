@@ -4,6 +4,13 @@
 
 > A sentry module for Nuxt with nuxt-env
 
+## ⚠️ This package has been archived
+
+Nuxt v2.13 has introduced runtime config which provides us the ability to configure environment variables dynamically. Please use it.
+
+- https://nuxtjs.org/docs/2.x/configuration-glossary/configuration-runtime-config/
+- https://nuxtjs.org/blog/moving-from-nuxtjs-dotenv-to-runtime-config/
+
 ## Features
 
 The module enables error logging through [Sentry](http://sentry.io).
